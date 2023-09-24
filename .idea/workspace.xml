@@ -1,15 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4716d4d0-e978-4e78-91b7-5285e02c4d8a" name="Changes" comment="" />
+    <list default="true" id="4716d4d0-e978-4e78-91b7-5285e02c4d8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LOGIN_PAGE.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/CHANGE_PASSWORD$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/CHANGE_PASSWORD$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/CHANGE_PASSWORD$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/CHANGE_PASSWORD$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/CHANGE_PASSWORD$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/CHANGE_PASSWORD$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/CHANGE_PASSWORD$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/CHANGE_PASSWORD$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/CHANGE_PASSWORD.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/CHANGE_PASSWORD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/DBLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/DBLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/DELETE_ACCOUNT$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/DELETE_ACCOUNT$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/DELETE_ACCOUNT$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/DELETE_ACCOUNT$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/DELETE_ACCOUNT$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/DELETE_ACCOUNT$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/DELETE_ACCOUNT$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/DELETE_ACCOUNT$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/DELETE_ACCOUNT$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/DELETE_ACCOUNT$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/DELETE_ACCOUNT.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/DELETE_ACCOUNT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FAV_MOVIES$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FAV_MOVIES$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FAV_MOVIES$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FAV_MOVIES$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FAV_MOVIES$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FAV_MOVIES$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FAV_MOVIES.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FAV_MOVIES.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FAV_SHOWS$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FAV_SHOWS$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FAV_SHOWS$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FAV_SHOWS$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FAV_SHOWS$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FAV_SHOWS$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FAV_SHOWS.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FAV_SHOWS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FAV_SHOWS_DESIGN.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FAV_SHOWS_DESIGN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/FORGOT_PASSWORD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/GENRE_MOVIE_LIST$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/GENRE_MOVIE_LIST$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/GENRE_MOVIE_LIST$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/GENRE_MOVIE_LIST$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/GENRE_MOVIE_LIST$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/GENRE_MOVIE_LIST$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/GENRE_MOVIE_LIST$mytablemodel.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/GENRE_MOVIE_LIST$mytablemodel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/GENRE_MOVIE_LIST.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/GENRE_MOVIE_LIST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/GENRE_TV_LIST$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/GENRE_TV_LIST$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/GENRE_TV_LIST$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/GENRE_TV_LIST$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/GENRE_TV_LIST$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/GENRE_TV_LIST$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/GENRE_TV_LIST$mytablemodel.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/GENRE_TV_LIST$mytablemodel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/GENRE_TV_LIST.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/GENRE_TV_LIST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Global.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Global.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HOME_TESTING.form" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HOME_TESTING.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/LOGIN_PAGE$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/LOGIN_PAGE$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/LOGIN_PAGE$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/LOGIN_PAGE$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/LOGIN_PAGE$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/LOGIN_PAGE$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/LOGIN_PAGE$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/LOGIN_PAGE$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/LOGIN_PAGE$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/LOGIN_PAGE$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/LOGIN_PAGE.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/LOGIN_PAGE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/MULTI_SEARCH$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/MULTI_SEARCH$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/MULTI_SEARCH$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/MULTI_SEARCH$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/MULTI_SEARCH$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/MULTI_SEARCH$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/MULTI_SEARCH$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/MULTI_SEARCH$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/MULTI_SEARCH.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/MULTI_SEARCH.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/MULTI_SEARCH_DESIGN$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/MULTI_SEARCH_DESIGN$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/MULTI_SEARCH_DESIGN.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/MULTI_SEARCH_DESIGN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/PanelSlider42$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/PanelSlider42$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/PanelSlider42$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/PanelSlider42$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/PanelSlider42$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/PanelSlider42$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/PanelSlider42$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/PanelSlider42$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/PanelSlider42$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/PanelSlider42$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/PanelSlider42.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/PanelSlider42.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/REGISTER_PAGE$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/REGISTER_PAGE$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/REGISTER_PAGE$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/REGISTER_PAGE$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/REGISTER_PAGE$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/REGISTER_PAGE$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/REGISTER_PAGE.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/REGISTER_PAGE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_COMPANY$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_COMPANY$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_COMPANY$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_COMPANY$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_COMPANY$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_COMPANY$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_COMPANY$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_COMPANY$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_COMPANY.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_COMPANY.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_COMPANY_DESIGN.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_COMPANY_DESIGN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES_DESIGN$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES_DESIGN$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES_DESIGN$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES_DESIGN$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES_DESIGN.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_MOVIES_DESIGN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE_DESIGN$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE_DESIGN$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE_DESIGN$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE_DESIGN$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE_DESIGN.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_PEOPLE_DESIGN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TVSHOWS_BY_CATEGORY$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TVSHOWS_BY_CATEGORY$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TVSHOWS_BY_CATEGORY$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TVSHOWS_BY_CATEGORY$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TVSHOWS_BY_CATEGORY$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TVSHOWS_BY_CATEGORY$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TVSHOWS_BY_CATEGORY.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TVSHOWS_BY_CATEGORY.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS_DESIGN$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS_DESIGN$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS_DESIGN.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/SEARCH_TV_SHOWS_DESIGN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Search_M_By_Category$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Search_Movie_By_Category$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Search_Movie_By_Category$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Search_Movie_By_Category$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Search_Movie_By_Category$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Search_Movie_By_Category$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Search_Movie_By_Category$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Search_Movie_By_Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Search_Movie_By_Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/UPCOMING_MOVIES$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/UPCOMING_MOVIES$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/UPCOMING_MOVIES$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/UPCOMING_MOVIES$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/UPCOMING_MOVIES.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/UPCOMING_MOVIES.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/UPCOMING_MOVIES_DESIGN.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/UPCOMING_MOVIES_DESIGN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/category.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/moviedesign$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/moviedesign$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/moviedesign.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/moviedesign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/test_api.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/test_api.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/test_sql_querry.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/test_sql_querry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/welcome$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/welcome$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/welcome$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/welcome$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/welcome.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/welcome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AVATAR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/AVATAR.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHANGE_PASSWORD.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/CHANGE_PASSWORD.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHANGE_PASSWORD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/CHANGE_PASSWORD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DBLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/DBLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DELETE_ACCOUNT.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/DELETE_ACCOUNT.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DELETE_ACCOUNT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/DELETE_ACCOUNT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FAV_MOVIES.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/FAV_MOVIES.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FAV_MOVIES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/FAV_MOVIES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FAV_SHOWS.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/FAV_SHOWS.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FAV_SHOWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/FAV_SHOWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FAV_SHOWS_DESIGN.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/FAV_SHOWS_DESIGN.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FAV_SHOWS_DESIGN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design/FAV_SHOWS_DESIGN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FORGOT_PASSWORD.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/FORGOT_PASSWORD.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FORGOT_PASSWORD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/FORGOT_PASSWORD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GENRE_MOVIE_LIST.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/GENRE_MOVIE_LIST.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GENRE_MOVIE_LIST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/GENRE_MOVIE_LIST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GENRE_TV_LIST.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/GENRE_TV_LIST.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GENRE_TV_LIST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/GENRE_TV_LIST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Global.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/Global.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOME_TESTING.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/HOME_TESTING.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOME_TESTING.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/HOME_TESTING.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JOHN WICK.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/JOHN WICK.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LOGIN_PAGE.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/LOGIN_PAGE.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LOGIN_PAGE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/LOGIN_PAGE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MULTI_SEARCH.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/MULTI_SEARCH.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MULTI_SEARCH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/MULTI_SEARCH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MULTI_SEARCH_DESIGN.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/MULTI_SEARCH_DESIGN.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MULTI_SEARCH_DESIGN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design/MULTI_SEARCH_DESIGN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MovieManiaLogo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MovieManiaLogo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PanelSlider42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/PanelSlider42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/REGISTER_PAGE.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/REGISTER_PAGE.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/REGISTER_PAGE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/REGISTER_PAGE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_COMPANY.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/SEARCH_COMPANY.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_COMPANY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/SEARCH_COMPANY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_COMPANY_DESIGN.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/SEARCH_COMPANY_DESIGN.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_COMPANY_DESIGN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design/SEARCH_COMPANY_DESIGN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_MOVIES.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/SEARCH_MOVIES.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_MOVIES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/SEARCH_MOVIES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_MOVIES_DESIGN.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/SEARCH_MOVIES_DESIGN.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_MOVIES_DESIGN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design/SEARCH_MOVIES_DESIGN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_PEOPLE.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/SEARCH_PEOPLE.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_PEOPLE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/SEARCH_PEOPLE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_PEOPLE_DESIGN.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/SEARCH_PEOPLE_DESIGN.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_PEOPLE_DESIGN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design/SEARCH_PEOPLE_DESIGN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_TVSHOWS_BY_CATEGORY.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/SEARCH_TVSHOWS_BY_CATEGORY.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_TVSHOWS_BY_CATEGORY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/SEARCH_TVSHOWS_BY_CATEGORY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_TV_SHOWS.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/SEARCH_TV_SHOWS.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_TV_SHOWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/SEARCH_TV_SHOWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_TV_SHOWS_DESIGN.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/SEARCH_TV_SHOWS_DESIGN.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEARCH_TV_SHOWS_DESIGN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design/SEARCH_TV_SHOWS_DESIGN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search_Movie_By_Category.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/Search_Movie_By_Category.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search_Movie_By_Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/Search_Movie_By_Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UPCOMING_MOVIES.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/UPCOMING_MOVIES.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UPCOMING_MOVIES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/UPCOMING_MOVIES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UPCOMING_MOVIES_DESIGN.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/UPCOMING_MOVIES_DESIGN.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UPCOMING_MOVIES_DESIGN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design/UPCOMING_MOVIES_DESIGN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WAKANDA FOREVER.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/WAKANDA FOREVER.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/actor.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/change_pass.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/change_pass.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collage1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/collage1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collage2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/collage2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/company.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/company.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fav_movies.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/fav_movies.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forgot_pass.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/forgot_pass.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genre.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/genre.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/hall.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/harry potter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/harry potter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/home.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/home_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/joker.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/joker.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/like.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/like.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/login_page.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/login_page.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minions.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/minions.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moviedesign.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/moviedesign.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moviedesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design/moviedesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pass_pic.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/pass_pic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pass_pic1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/pass_pic1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/register.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/register.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_api.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_sql_querry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_sql_querry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tvshows.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/tvshows.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unlike.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/unlike.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user_pic.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/user_pic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/welcome.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forms/welcome.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yt.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/yt.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2Cel267tRY2aMwk508L3Vq3HvDG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,9 +267,47 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/JAVA PROJECT MOVIES WORLD/MOVIES_MANIA"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/JAVA PROJECT MOVIES WORLD/MOVIES_MANIA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JAVA PROJECT MOVIES WORLD\MOVIES_MANIA\src\Forms" />
+      <recent name="E:\JAVA PROJECT MOVIES WORLD\MOVIES_MANIA\src\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LOGIN_PAGE">
+    <configuration name="LOGIN_PAGE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Features.LOGIN_PAGE" />
+      <module name="MOVIES_MANIA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="welcome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Features.welcome" />
+      <module name="MOVIES_MANIA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LOGIN_PAGE" />
+        <item itemvalue="Application.welcome" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,7 +316,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659170721022</updated>
+      <workItem from="1695564722207" duration="3475000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
